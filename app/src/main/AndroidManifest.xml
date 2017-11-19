@@ -18,7 +18,8 @@
         <activity android:name=".activity.RankingActivity" />
         <activity android:name=".activity.UserSettingActivity" />
         <activity android:name=".activity.UserCollectActivity" />
-        <activity android:name=".activity.UserPingJiaActivity">
+        <activity android:name=".activity.UserPingJiaActivity"/>
+        <activity android:name=".activity.StartPageActivity">
         </activity>
     </application>
 

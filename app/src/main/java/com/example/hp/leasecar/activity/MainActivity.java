@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationB
     private ArrayList<Fragment> fragments;
     private TextView tvTitle;
     private BottomNavigationBar bottomNavigationBar;
-    private static final String[] TITLE = {"菜单1","菜单2","商家服务排行榜","个人中心"};
+    private static final String[] TITLE = {"首页","订单","商家服务排行榜","个人中心"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
